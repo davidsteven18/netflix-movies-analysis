@@ -114,8 +114,8 @@ Filters movies based on:
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- GitHub: [davidsteven18](https://github.com/davidsteven18)
+- Upwork: [David Steven H](https://www.upwork.com/freelancers/~01b011bea3c9278292)
 
 ## 📄 License
 
